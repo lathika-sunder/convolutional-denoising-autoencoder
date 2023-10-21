@@ -6,7 +6,7 @@ To develop a convolutional autoencoder for image denoising application.
 
 ## Convolution Autoencoder Network Model
 
-[![Convolution Autoencoder Network Model](./nn.png)](https://github.com/21005984/convolutional-denoising-autoencoder/raw/main/nn.png)
+![image](https://github.com/lathika-sunder/convolutional-denoising-autoencoder/assets/95066409/24218926-075f-4ea5-a3fe-1f811d475554)
 
 ## DESIGN STEPS
 
@@ -115,11 +115,13 @@ plt.show()
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-[![output](./dl.png)](https://github.com/21005984/convolutional-denoising-autoencoder/raw/main/dl.png)
+![image](https://github.com/lathika-sunder/convolutional-denoising-autoencoder/assets/95066409/4cd846d3-ab50-49b2-8733-35f97d39f8e7)
+
 
 ### Original vs Noisy Vs Reconstructed Image
 
-[![output](./dl1.png)](https://github.com/21005984/convolutional-denoising-autoencoder/raw/main/dl1.png)
+![image](https://github.com/lathika-sunder/convolutional-denoising-autoencoder/assets/95066409/dd3b2971-9177-4a73-826a-232de0ec19b0)
+
 
 ## RESULT
 Thus we have successfully developed a convolutional autoencoder for image denoising application.
